@@ -1,2 +1,2 @@
 # learning
-first try to learn c#
+first try to learn PHP
